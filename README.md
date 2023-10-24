@@ -35,4 +35,4 @@ maintaining AWS environments, and ensuring ISO 27001 compliance.
 
 - [LinkedIn](https://www.linkedin.com/in/dejan-vukelic/)
 - [Personal Website](https://dejan.page/)
-
+- [GitHub Gists](https://gist.github.com/dejanvukelic)
